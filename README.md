@@ -1,2 +1,2 @@
 # rest-api-sample
-sample of rest api implementation with symfony and FOSRestBundle
+sample of rest api implementation with Symfony and FOSRestBundle
